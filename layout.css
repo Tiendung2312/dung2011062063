@@ -1,0 +1,9 @@
+h1{
+    color: blueviolet;
+    text-align: left;
+    text-underline-position: above;
+}
+img {
+    width: 100px; /* chiều rộng */
+    height: 100px; /* chiều cao */
+}
